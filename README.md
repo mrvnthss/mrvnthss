@@ -5,7 +5,7 @@
 
 - 🧠 I'm currently enrolled at the University of Giessen, studying **Mind, Brain and Behavior (MSc)**.
 
-- 👨🏼‍🎓 Previously, I studied **Mathematics (BSc & MSc)** at the University of Marburg.
+- 👨🏼‍🎓 Before that, I studied **Mathematics (BSc & MSc)** at the University of Marburg.
 
 - 🔭 I’m currently working on: [**deep-learning-with-dobble**](https://github.com/mrvnthss/deep-learning-with-dobble).
 
