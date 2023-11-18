@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marvin 👋🏼</h1>
-<h3 align="center">An aspiring AI/ML researcher at the very beginning of his journey 🚀</h3>
+<h3 align="center">An aspiring AI/ML researcher at the beginning of his journey 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
