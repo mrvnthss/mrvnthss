@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🧠 I'm currently enrolled at the University of Giessen, studying **Mind, Brain and Behavior (MSc)**.
+- 🧠 I'm currently enrolled at the University of Giessen, studying [**Mind, Brain and Behavior (MSc)**](https://github.com/mrvnthss/mind-brain-behavior).
 
 - 👨🏼‍🎓 Before that, I studied **Mathematics (BSc & MSc)** at the University of Marburg.
 
