@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrvnthss" alt="mrvnthss" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrvnthss&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1" alt="mrvnthss" />
   </a>
 </p>
 
