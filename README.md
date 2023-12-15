@@ -11,7 +11,7 @@
 
 - 👨🏼‍🎓 Before that, I studied **Mathematics (BSc & MSc)** at the University of Marburg.
 
-- 🔭 I’m currently working on: [**deep-learning-with-dobble**](https://github.com/mrvnthss/deep-learning-with-dobble).
+- 🔭 I’m currently working on: [**dobble**](https://github.com/mrvnthss/dobble).
 
 - 🌱 I’m currently learning more about: [**PyTorch Basics for Machine Learning**](https://www.edx.org/learn/pytorch/ibm-pytorch-basics-for-machine-learning).
 
