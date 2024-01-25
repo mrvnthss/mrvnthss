@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Marvin 👋🏼</h1>
-<h3 align="center">An aspiring AI/ML researcher at the beginning of his journey 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -7,15 +6,15 @@
   </a>
 </p>
 
-- 🧠 I'm currently enrolled at the University of Giessen, studying [**Mind, Brain and Behavior (MSc)**](https://github.com/mrvnthss/mind-brain-behavior).
+- 🧠 I'm a graduate student at the University of Giessen, studying [**Mind, Brain and Behavior**](https://github.com/mrvnthss/mind-brain-behavior).
 
-- 👨🏼‍🎓 Before that, I studied **Mathematics (BSc & MSc)** at the University of Marburg.
+- 👨🏼‍🎓 I have a background in mathematics and earned my master's degree from the University of Marburg.
 
-- 🔭 I’m currently working on: [**dobble**](https://github.com/mrvnthss/dobble).
+- 🔭 I’m currently working on the master's thesis that's part of the *Mind, Brain and Behavior* program. Every now and then, I also spend some time working on [**dobble**](https://github.com/mrvnthss/dobble), a side project of mine. 
 
-- 🌱 I’m currently learning more about: [**PyTorch Basics for Machine Learning**](https://www.edx.org/learn/pytorch/ibm-pytorch-basics-for-machine-learning).
+- 🌱 I’m learning more about all things related to Artificial Intelligence. I'm currently brushing up on some PyTorch fundamentals by working through the [**PyTorch Basics for Machine Learning**](https://www.edx.org/learn/pytorch/ibm-pytorch-basics-for-machine-learning) MOOC.
 
-- 📜 [**Here**](https://drive.google.com/file/d/1owWP-IvVTILUx7_JO7EuOn6hKKJLsMN7/view?usp=sharing) you can find my full CV.
+- 📜 If you're interested, you can find my full CV [**here**](https://drive.google.com/file/d/1owWP-IvVTILUx7_JO7EuOn6hKKJLsMN7/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
