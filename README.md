@@ -14,7 +14,7 @@
 
 - 🌱 I’m learning more about all things related to Artificial Intelligence. I'm currently brushing up on some PyTorch fundamentals by working through the [**PyTorch Basics for Machine Learning**](https://www.edx.org/learn/pytorch/ibm-pytorch-basics-for-machine-learning) MOOC.
 
-- 📜 If you're interested, you can find my full CV [**here**](https://www.dropbox.com/scl/fi/sjsl3sdjav064qrkl6i3v/2024-02-07.pdf?rlkey=n7yxuz0uf3vxvvdril4fg35ni&dl=0).
+- 📜 If you're interested, you can find my full CV [**here**](https://www.dropbox.com/scl/fi/86llkakf5ivtex6jwwa0a/2024-02-07.pdf?rlkey=4kfyhm0e35qj94dvfa3hbwzod&dl=0).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
