@@ -10,7 +10,7 @@
 
 - 👨🏼‍🎓 I have a background in mathematics and earned my master's degree from the University of Marburg.
 
-- 🔭 I’m currently working on the master's thesis that's part of the *Mind, Brain and Behavior* program. Every now and then, I also spend some time working on [**dobble**](https://github.com/mrvnthss/dobble), a side project of mine. 
+- 🔭 I’m currently working on the master's thesis that's part of the *Mind, Brain and Behavior* program. Every now and then, I also spend some time working on [**dobble**](https://github.com/mrvnthss/dobble), a Python package that let's you create your own *Dobble* playing cards! 
 
 - 🌱 I’m learning more about all things related to Artificial Intelligence. I'm currently brushing up on some PyTorch fundamentals by working through the [**PyTorch Basics for Machine Learning**](https://www.edx.org/learn/pytorch/ibm-pytorch-basics-for-machine-learning) MOOC.
 
